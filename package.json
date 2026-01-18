@@ -19,6 +19,7 @@
     "style-loader": "^1.2.1",
     "webpack-cli": "^3.3.12",
     "cypress": "^9.5.0",
+    "@reduxjs/toolkit":"^2.0.1",
     "react-scripts": "4.0.0",
     "redux": "^4.2.0",        
     "react-redux": "^8.0.5",  
